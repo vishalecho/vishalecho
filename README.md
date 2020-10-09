@@ -19,9 +19,3 @@ Hello, My name's Vishal Kumar, I'm a Open Source enthusiast, Android software en
 ## Github Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vishalecho&show_icons=true&count_private=true&theme=)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalecho&hide=javascript,css&layout=compact)
-
-![Years Badge](https://badges.pufler.dev/years/vishalecho?style=flat&color=Jade)
-![Repos Badge](https://badges.pufler.dev/repos/xgouchet?style=flat&color=Jade)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/vishalecho?style=flat&color=Jade)
